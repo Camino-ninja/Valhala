@@ -1,5 +1,5 @@
 # Camino Ninja
-Embárcate en el "Camino Ninja" y descubre si tienes lo que se necesita para dominar el arte del ninjutsu en el mundo salvaje de Valheim.
+Embárcate en el camino al "Valhala" y descubre si tienes lo que se necesita para dominar el mundo salvaje de Valheim.
 
 ## Uso 
 * ### Load 
